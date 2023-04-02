@@ -19,6 +19,13 @@ h2 > span {
     color: #fa9f42;
     font-size: 0.75em;
 }
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #D4D4D4;
+}
 #copyright {
     padding-top: 12px;
     font-size: 0.75em;
